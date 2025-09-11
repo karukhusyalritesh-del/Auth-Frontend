@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&family=Outfit:wght@100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Prata&display=swap');
+@import "tailwindcss";
+*{
+  font-family: "Outfit", sans-serif;
+}
+body{
+  background: linear-gradient(to bottom, #C6F6D5, #48BB78);
+}
